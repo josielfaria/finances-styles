@@ -1,3 +1,3 @@
-import Button from './Button.react'
+import { Button } from './Button.react'
 
 export { Button as default }
